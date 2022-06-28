@@ -1,5 +1,6 @@
 # Moooovie finder
-### By: Earl Balageo
+### By: Habib Adejumobi
+
 
 ## Live Demo:
 * https://clever-spence-e44760.netlify.app/
